@@ -1,6 +1,8 @@
 
 # react-cxs-grid
 
+## DEPRECATED: See https://github.com/jxnblk/axs instead
+
 React grid system built with [cxs](https://github.com/jxnblk/cxs)
 
 ```sh
